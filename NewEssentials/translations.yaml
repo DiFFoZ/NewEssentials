@@ -180,3 +180,6 @@ teleport:
 connections:
   connected: "{User} joined the game."
   disconnected: "{User} left the game."
+features:
+  items: "Auto-Repair {RepairEnabled:enabled|disabled}. Auto-Reload {ReloadEnabled:enabled|disabled}!"
+  vehicles: "Auto-Repair {RepairEnabled:enabled|disabled}. Auto-Refuel {RefuelEnabled:enabled|disabled}!"
